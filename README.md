@@ -22,9 +22,23 @@
 
 <br>
 
-## <div align="center"> ⛩ My Contributions ⛩ </div>
+## <div align="center"> ⛩ My Stats ⛩ </div>
 ![](https://raw.githubusercontent.com/Kerchu/Kerchu/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Kerchu/Kerchu/output/github-contribution-grid-snake.svggh-light-mode-only)
+
+<br>
+<div> 
+    <p align = "center">
+        <a href="https://git.io/streak-stats">
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=Kerchu&theme=highcontrast" alt="GitHub Streak" />
+        </a>
+        <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kerchu&amp;bg_color=000000&amp;color=ff8000&amp;line=ff8040&amp;point=403d3d&amp;area=true&amp;hide_border=true" alt="Ashutosh&#39;s github activity graph">
+        </a>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kerchu&amp;theme=vision_friendly_dark" alt="">
+    </p>
+</div>
+
 
 
 ## <div align="center"> ⛩ My Technical Skills ⛩ </div>
@@ -157,36 +171,7 @@
   </tr>
 </table>
 
-## ナMy Programmer's Toolbox:
-ロSystems Architecture & Logic: Leveraging C# and C++ for application development and Object-Oriented Programming (OOP).
-ロWeb Ecosystem: Building responsive, user-centric interfaces using HTML5, CSS3, and JavaScript.
-ロGame Engineering & Simulation: Experience in Unity Engine (2019) and C# for Videogames.
-ロDevOps & Workflow: Streamlining collaboration via Git and VS Code, and utilizing LLMs for code auditing and rapid prototyping.
-ロCore Methodologies: Applying Design Thinking, Analytical Logic, and Agile Teamwork to bridge the gap between concept and deployment.
-ロEnvironment & Infrastructure: Proficient in Linux/Unix environments (Arch distro) for system administration.
-
-<h2 align = "center"> 📉 GitHub Stats</h2>
-<div> 
-    <p align = "center">
-<!--         <a href="https://github-readme-stats.vercel.app">
-            <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=JohnKun136NVCP&count_private=true&theme=neon&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&rank_icon=github&hide_border=false">
-        </a> -->
-        <a href="https://github-readme-streak-stats.herokuapp.com">
-            <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=JohnKun136NVCP&theme=neon&hide_border=false&date_format=%5BY%20%5DM%20j">
-        </a><!--change language to japanese locale=jp-->
-<!--         <a href="https://github.com/ryo-ma/github-profile-trophy">
-            <img width="50%" align="left"alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=JohnKun136NVCP&theme=radical&row=4&column=4">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnKun136NVCP&hide_border=false&theme=neon&layout=compact&hide_progress=false&hide=jupyter%20notebook&langs_count=6" align="right" width = "41%">
-        </a> -->
-        <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-            <img width="120%" alt="Stats" src="https://github-readme-activity-graph.vercel.app/graph?username=JohnKun136NVCP&theme=redical">
-        </a>
-        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-            <img width="120%" alt="GraphStats" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JohnKun136NVCP&theme=2077">
-    </p>
-</div>
-
-<h2 align ="center"> 📝 Contact me 📝</h2>
+## <div align ="center"> ⛩ Contact me ⛩ </div>
 <br> 
 <div align="center">
     <a href="https://github.com/Kerchu" target="_blank">
@@ -202,7 +187,7 @@
     <img align="center"src = "https://i.pinimg.com/originals/e6/da/c1/e6dac1038095d76596e8b1bd9653f569.gif" width = "500">
 </div>  
 
-## <div align="center" color="White"> ⛩ Visit Counter ⛩ <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RscXNqNWRkZ2RkNDgxYWo2cmFvcndyZ3Juajg5MWk1Mmpmank2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3pV1IMQQMHYTw7gR8y/giphy.gif" alt="xiao" height="55" width="55"></div>
+## <div align="center" color="White"> ⛩ Visit Counter ⛩ <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3RscXNqNWRkZ2RkNDgxYWo2cmFvcndyZ3Juajg5MWk1Mmpmank2NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3pV1IMQQMHYTw7gR8y/giphy.gif" alt="xiao" height="20" width="20"></div>
 <div align="center">
     <img src="https://count.getloli.com/@Kerchu" alt=":Kerchu" />
 </div>
