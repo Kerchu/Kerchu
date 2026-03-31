@@ -1,17 +1,9 @@
-
-
-* Languages: C++, C#, Javascript, Java, Python.
-
-* Tools: VSCode.
-
-
 ## <div align="center"> ⛩ About me ⛩ </div>
 <img 
   src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzh3ZmNpNHNvbGt5N285azNseGV1ZXlicGFtMTVrbTN4ajJ6bHhzNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gY8Bs8qvD1EukQBj5V/giphy.gif" 
   alt="<3" 
   align="left" 
-  width="30%"
-  height="500%">
+  width="26%">
 
 ```markdown
 ──────────────────────⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘─────────────────────────
@@ -28,28 +20,29 @@
 ╰─────────────────────⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘────────────────────────╯
 ```
 
+<br>
+
 ## <div align="center"> ⛩ My Contributions ⛩ </div>
 ![](https://raw.githubusercontent.com/Kerchu/Kerchu/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/Kerchu/Kerchu/output/github-contribution-grid-snake.svggh-light-mode-only)
 
 
 ## <div align="center"> ⛩ My Technical Skills ⛩ </div>
-  • OS: Windows and Linux (Arch)
 <!-- Table Icons -->
-<table>
+<table align="center">
   <tr>
+    <!-- Language icons -->
     <th width="200px">
       <div id="toc">
         <ul align="center" style="list-style: none">
           <summary>
             <h2>
-              Techs
+              Languages
             </h2>
           </summary>
         </ul>
       </div>
     </th>
-    <!-- Language icons -->
     <td width="650px">
       <a href="#"><img src="https://skillicons.dev/icons?i=html" height="45" alt="html logo"/></a><img width="6px" height="1px">
       <a href="#"><img src="https://go-skill-icons.vercel.app/api/icons?i=css" height="45" alt="css logo"/></a><img width="6px" height="1px">
@@ -62,6 +55,7 @@
     </td>
   </tr>
 
+  <!-- Libs icons -->
    <tr>
     <th>
       <div id="toc">
@@ -74,7 +68,6 @@
         </ul>
       </div>
     </th>
-    <!-- Libs icons -->
     <td>
       <a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" height="45" alt="react logo"/></a><img width="6px" height="1px">
       <a href="https://mui.com/material-ui/"><img src="https://skillicons.dev/icons?i=materialui" height="45" alt="materialui logo"/></a><img width="6px" height="1px">
@@ -82,6 +75,7 @@
     </td>
   </tr>
 
+  <!-- Database icons -->
    <tr>
     <th>
       <div id="toc">
@@ -94,32 +88,12 @@
         </ul>
       </div>
     </th>
-    <!-- Database icons -->
     <td>
       <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" height="45" alt="mysql logo"/></a><img width="6px" height="1px">
     </td>
   </tr>
 
-  <tr>
-    <th>
-      <div id="toc">
-        <ul align="center" style="list-style: none">
-          <summary>
-            <h2>
-              Others
-            </h2>
-          </summary>
-        </ul>
-      </div>
-    </th>
-    <!-- Others icons -->
-    <td>
-      <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"/></a><img width="6px" height="1px">
-      <a href="https://vite.dev/"><img src="https://skillicons.dev/icons?i=vite" height="45" alt="vite logo"/></a><img width="6px" height="1px">
-      <a href="https://dotnet.microsoft.com/en-us/download"><img src="https://skillicons.dev/icons?i=dotnet" height="45" alt="dotnet logo"/></a><img width="6px" height="1px">
-    </td>
-  </tr>
-
+  <!-- Tools icons -->
   <tr>
     <th>
       <div id="toc">
@@ -132,7 +106,6 @@
         </ul>
       </div>
     </th>
-    <!-- Tools icons -->
     <td>
       <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="45" alt="vscode logo"/></a><img width="6px" height="1px">
       <a href="https://unity.com/"><img src="https://skillicons.dev/icons?i=unity" height="45" alt="unity logo"/></a><img width="6px" height="1px">
@@ -143,6 +116,7 @@
       <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"/></a><img width="6px" height="1px">
     </td>
   </tr>
+  
   <!-- OS -->
   <tr>
     <th>
@@ -159,6 +133,26 @@
     <td>
       <a href="https://archlinux.org/"><img src="https://skillicons.dev/icons?i=arch" height="45" alt="arch logo"/></a><img width="6px" height="1px">
       <a href="https://www.microsoft.com/en-us/windows"><img src="https://skillicons.dev/icons?i=windows" height="45" alt="windows logo"/></a><img width="6px" height="1px">
+    </td>
+  </tr>
+
+  <!-- Others icons -->
+  <tr>
+    <th>
+      <div id="toc">
+        <ul align="center" style="list-style: none">
+          <summary>
+            <h2>
+              Others
+            </h2>
+          </summary>
+        </ul>
+      </div>
+    </th>
+    <td>
+      <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"/></a><img width="6px" height="1px">
+      <a href="https://vite.dev/"><img src="https://skillicons.dev/icons?i=vite" height="45" alt="vite logo"/></a><img width="6px" height="1px">
+      <a href="https://dotnet.microsoft.com/en-us/download"><img src="https://skillicons.dev/icons?i=dotnet" height="45" alt="dotnet logo"/></a><img width="6px" height="1px">
     </td>
   </tr>
 </table>
@@ -195,13 +189,13 @@
 <h2 align ="center"> 📝 Contact me 📝</h2>
 <br> 
 <div align="center">
-    <a href="https://github.com/JohnKun136NVCP" target="_blank">
+    <a href="https://github.com/Kerchu" target="_blank">
         <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;">
     </a>
-    <a href="https://twitter.com/JohnWilliamBn" target="_blank">
+    <a href="https://x.com/KerchuX44" target="_blank">
         <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;">
     </a>
-    <a href="https://linkedin.com/in/juan-ang-1307191b0" target="_blank">
+    <a href="https://www.linkedin.com/in/agustinrodriguezm/" target="_blank">
         <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;">
     </a>
     <br>
