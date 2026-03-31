@@ -32,10 +32,16 @@
         <a href="https://git.io/streak-stats">
           <img src="https://github-readme-streak-stats.herokuapp.com?user=Kerchu&theme=highcontrast" alt="GitHub Streak" />
         </a>
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kerchu&amp;theme=vision_friendly_dark" alt="" />
+        <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kerchu&amp;theme=vision_friendly_dark" alt="" align="left"/>
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kerchu&amp;theme=vision_friendly_dark" alt="" align="right"/>
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kerchu&amp;theme=vision_friendly_dark" alt="" align="left"/>
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kerchu&amp;theme=vision_friendly_dark&amp;utcOffset=8" alt="" align="right"/>
+        </div>
         <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
           <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kerchu&amp;bg_color=000000&amp;color=ff8000&amp;line=ff8040&amp;point=403d3d&amp;area=true&amp;hide_border=true" alt="Ashutosh&#39;s github activity graph">
         </a>
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kerchu&amp;theme=vision_friendly_dark" alt="">
     </p>
 </div>
 
