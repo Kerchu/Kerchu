@@ -23,9 +23,11 @@
 <br>
 
 ## <div align="center"> ⛩ My Stats ⛩ </div>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kerchu/kerchu/output/github-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kerchu/kerchu/output/github-snake-light.svg">
-<img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/kerchu/kerchu/output/github-snake-light.svg">
+<div style="text_align: center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kerchu/Kerchu/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kerchu/Kerchu/output/github-snake-light.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Kerchu/Kerchu/output/github-snake-light.svg">
+</div>
 
 <br>
 <div> 
